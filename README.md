@@ -14,6 +14,8 @@ Each folder below contains a self-contained project, complete with datasets, das
 A collection of data visualization dashboards.
 
  - 📊[Google Platform Dashboard](./Dashboard-File/Google%20Platform): Overview and Dynamics dashboards simulating key Google services.
+ - 📊[CJ Sales Dashboard](./Dashboard-File/CJ%20Sales): Overview Sales CJ Supermarket Dashboard.
+ - 📊[Bank Loan Insights](./Dashboard-File/Bank%20Loan%20Insights): Overview Bank Loan Insights.
 
 ---
 
